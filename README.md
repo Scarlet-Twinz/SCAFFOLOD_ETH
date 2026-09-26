@@ -1,4 +1,4 @@
-# Scaffold ETH
+#  Scaffold ETH
 
 A Scaffold-ETH based Ethereum dApp development workspace containing a Next.js frontend, Hardhat smart-contract environment, deployment tooling, and a starter Solidity contract.
 

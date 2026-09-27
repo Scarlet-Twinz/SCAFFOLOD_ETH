@@ -75,9 +75,11 @@ This contract is intended for learning and experimentation, not as an audited pr
 - Node.js compatible with the workspace tooling
 - Yarn 4
 
-### Install
+### Clone and install
 
 ```bash
+git clone https://github.com/Scarlet-Twinz/SCAFFOLOD_ETH.git
+cd SCAFFOLOD_ETH
 yarn install
 ```
 

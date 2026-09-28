@@ -125,12 +125,9 @@ Built from the Scaffold-ETH ecosystem and starter patterns. Original starter aut
 
 **GitHub Repository:** https://github.com/Scarlet-Twinz/SCAFFOLOD_ETH
 
+
 ## License
 
-MIT
+MIT License.
 
-## Project Links
-
-- **Repository:** https://github.com/Scarlet-Twinz/SCAFFOLOD_ETH
-- **Author:** Anthony Emmanuella Mmasinachi
-- **GitHub:** https://github.com/Scarlet-Twinz
+See [LICENSE](LICENSE) for the full license text.
